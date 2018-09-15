@@ -5,6 +5,7 @@
 //  Created by ShenTensen on 15/12/17.
 //  Copyright © 2015年 ShenTensen. All rights reserved.
 //  打印从2到指定范围内的所有质数
+//  这段代码似乎有瑕疵！
 
 #include <stdio.h>
 #include <math.h>
